@@ -1,2 +1,3 @@
 # login-register
-# Responsive giriş ve kayıt sayfası.
+Responsive giriş ve kayıt sayfası.
+
